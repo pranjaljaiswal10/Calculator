@@ -8,4 +8,4 @@
 ## Description
 A simple calculor using vanilla JavaScript
 
-## Demo-link [Calculator](https://calculator-pj.netlify.app/)
+## Demo-link: [Calculator](https://calculator-pj.netlify.app/)
